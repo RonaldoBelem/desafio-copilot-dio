@@ -3,7 +3,7 @@
  1 - primeiro digitei este texto no prompt e a IA criou pra mim imagens com arco-íris e eu não gostei então pedi para remover o arcoiris
 
 " crie duas imagens diferentes dos anjos adorando a deus e que esteja dentro contexto biblico e que mostre a grandeza de deus "
-<img src="https://github.com/RonaldoBelem/desafio-copilot-dio/blob/main/input/primeira%20imagem%20criada/_4b41aa3a-9185-42a6-a858-4e852aa48cf7.jpeg" height=600px >
+<img src="https://github.com/RonaldoBelem/desafio-copilot-dio/blob/main/input/primeira%20imagem%20criada/_4b41aa3a-9185-42a6-a858-4e852aa48cf7.jpeg" height=300px >
 
 
 
